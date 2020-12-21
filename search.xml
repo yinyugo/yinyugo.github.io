@@ -13,10 +13,9 @@
       </tags>
   </entry>
   <entry>
-    <title>a</title>
-    <url>/2020/12/21/a/</url>
-    <content><![CDATA[<p><img src="/.io//1.png" alt="theshy"><br><img src="/.io//1.jpg" alt="theshy"></p>
-]]></content>
+    <title>hello</title>
+    <url>/2020/12/14/hello/</url>
+    <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>Hello World</title>
@@ -35,10 +34,5 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>hello</title>
-    <url>/2020/12/14/hello/</url>
-    <content><![CDATA[]]></content>
   </entry>
 </search>
