@@ -3,7 +3,7 @@
   <entry>
     <title>测试</title>
     <url>/2020/12/21/article/</url>
-    <content><![CDATA[<p>仅仅是一个测试哈</p>
+    <content><![CDATA[<p>仅仅是一个测试哈<br><img src="https://i.loli.net/2020/12/21/xzrjuWbL8ZFBiJY.jpg" alt="1.jpg"></p>
 ]]></content>
       <categories>
         <category>新的编辑器</category>
@@ -11,11 +11,6 @@
       <tags>
         <tag>-Typora</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>hello</title>
-    <url>/2020/12/14/hello/</url>
-    <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>Hello World</title>
@@ -34,5 +29,10 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>hello</title>
+    <url>/2020/12/14/hello/</url>
+    <content><![CDATA[]]></content>
   </entry>
 </search>
