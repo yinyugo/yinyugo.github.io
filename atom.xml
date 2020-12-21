@@ -6,7 +6,7 @@
   <link href="https://yinyugo.github.io/atom.xml" rel="self"/>
   
   <link href="https://yinyugo.github.io/"/>
-  <updated>2020-12-14T07:20:03.240Z</updated>
+  <updated>2020-12-21T04:55:36.612Z</updated>
   <id>https://yinyugo.github.io/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试</title>
+    <link href="https://yinyugo.github.io/2020/12/21/article/"/>
+    <id>https://yinyugo.github.io/2020/12/21/article/</id>
+    <published>2020-12-21T04:48:05.000Z</published>
+    <updated>2020-12-21T04:55:36.612Z</updated>
+    
+    
+    <summary type="html">测试</summary>
+    
+    
+    
+    <category term="新的编辑器" scheme="https://yinyugo.github.io/categories/%E6%96%B0%E7%9A%84%E7%BC%96%E8%BE%91%E5%99%A8/"/>
+    
+    
+    <category term="-Typora" scheme="https://yinyugo.github.io/tags/Typora/"/>
+    
+  </entry>
   
   <entry>
     <title>hello</title>
